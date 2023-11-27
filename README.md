@@ -6,7 +6,7 @@ My research direction involves a wide series of multi-modal applications, e.g., 
 
 The code and related resources of my research are available at [https://github.com/synlp](https://github.com/synlp). We are a creative and productive team. For more information, please refer to our [GitHub repository](https://github.com/synlp).
 
-If you have any about my research or me, please feel free to contact me via e-mail (lc980413@mail.ustc.edu.cn).
+If you have any question about my research or me, please feel free to contact me via e-mail (lc980413@mail.ustc.edu.cn).
 
 ## News 🔥
 - Nov. 27th: We have released our newest [survey paper](https://arxiv.org/abs/2311.14199) on radiology report generation. If you are interested in this research, check it out at our [GitHub repository](https://github.com/synlp/RRG-Review) for more related information and resources.
