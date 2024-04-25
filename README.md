@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC). 
+🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC), supervised by Prof. [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en). 
 
 🔍 My research direction involves a wide series of applications based on diffusion models, e.g., image inpainting, text-to-image generation, video generation, and etc.
 
