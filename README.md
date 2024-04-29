@@ -1,4 +1,5 @@
 ### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=AlonzoLeeeooo&show_icons=true)
 
 🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC), supervised by Prof. [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en). 
 
