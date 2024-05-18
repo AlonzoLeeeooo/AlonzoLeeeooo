@@ -14,4 +14,8 @@ Newly published papers and resources will be updated in these repos.
 - Google Scholar: https://scholar.google.com/citations?user=Y3NKd1wAAAAJ&hl=zh-CN&authuser=2
 - Zhihu: https://www.zhihu.com/people/liu-chang-82-34-78 （@叫我Alonzo就好了）
 
+🔥 Recent News:
+- [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
+
+
 ![Visitor Count](https://profile-counter.glitch.me/alonzoleeeooo/count.svg)
