@@ -1,6 +1,6 @@
 ### Survey GitHub Repos 📂
 
-I have maintained a series of GitHub repos to record the update-to-date resources of different research directions. Currently, my research interests involve:
+I have maintained a series of GitHub repos to record update-to-date resources of various research directions. Currently, my main research interests involve:
 - [Image Inpainting](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)
 - [Text-to-Image Generation](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)
 - [Video Generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)
