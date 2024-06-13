@@ -15,6 +15,7 @@ Newly published papers and resources will be updated in these repos.
 - Zhihu: https://www.zhihu.com/people/liu-chang-82-34-78 （@叫我Alonzo就好了）
 
 🔥 Recent News:
+- [Jun. 13th] [Code](https://github.com/AlonzoLeeeooo/LCDG) and pre-trained model weights ([Huggingface](https://huggingface.co/AlonzoLeeeooo/LaCon) and [ModelScope](https://modelscope.cn/models/AlonzoLeeeoooo/LaCon)) of our paper titled ["LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis"](https://arxiv.org/pdf/2305.11520) are updated!
 - [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
 
 
