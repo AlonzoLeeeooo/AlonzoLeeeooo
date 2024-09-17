@@ -3,10 +3,12 @@
 
 🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC), supervised by Prof. [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en). 
 
-🔍 My research direction involves a wide series of applications based on generative models such as GANs, Transformers, and diffusion models. For now, I am mainly interested in these tasks: image inpainting, text-to-image generation, and video generation.
+🔍 My research direction involves a wide series of applications based on generative models such as GANs, Transformers, and diffusion models. For now, I am mainly interested in these tasks: *image inpainting*, *text-to-image generation*, and *video generation*.
 
-📂 To record up-to-date resources of the aforementioned research directions, I have maintained some GitHub repos, which you can find [here](./survey-topics.md).
-Newly published papers and resources will be updated in these repos.
+📂 To record up-to-date resources of the aforementioned research directions, I have maintained some GitHub repos, including:
+- [Text-to-Image Generation](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)
+- [Video Generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)
+- [Image Inpainting](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)
 
 🤝 I am looking for long-term collaboration in ground-breaking projects in computer vision, please feel free to contact me if you are interested. 
 
