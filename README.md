@@ -1,14 +1,15 @@
 ### Hi there 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlonzoLeeeooo&show_icons=true)
 
-🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC), supervised by Prof. [Dong Liu](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en). 
+🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC). 
 
 🔍 My research direction involves a wide series of applications based on generative models such as GANs, Transformers, and diffusion models. For now, I am mainly interested in these tasks: *image inpainting*, *text-to-image generation*, and *video generation*.
 
 📂 To record up-to-date resources of the aforementioned research directions, I have maintained some GitHub repos, including:
-- [<u>1. Text-to-Image Generation</u>](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies): A collection of resources for text-to-image generation studies.
-- [<u>2. Video Generation</u>](https://github.com/AlonzoLeeeooo/awesome-video-generation): A collection of resources for video generation studies.
-- [<u>3. Image Inpainting</u>](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies): A collection of resources for image inpainting studies.
+- [<u>1. Text-to-Image Generation</u>](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies): A collection of resources for the Text-to-Image (T2I) Generation task.
+- [<u>2. Video Generation</u>](https://github.com/AlonzoLeeeooo/awesome-video-generation): A collection of resources for the Video Generation task.
+- [<u>3. Image Inpainting</u>](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies): A collection of resources for the Image Inpainting task.
+- [<u>4. Radiology Report Generation</u>](https://github.com/AlonzoLeeeooo/awesome-radiology-report-generation): A collection of resources for the Radiology Report Generation (RRG) task.
 
 <p align="center">
     <a href="https://star-history.com/#alonzoleeeooo/awesome-image-inpainting-studies&alonzoleeeooo/awesome-video-generation&alonzoleeeooo/awesome-text-to-image-studies&Date" target="_blank">
