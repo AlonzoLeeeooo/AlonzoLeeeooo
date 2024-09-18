@@ -10,6 +10,11 @@
 - [2. Video Generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)
 - [3. Image Inpainting](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)
 
+<p align="center">
+    <a href="https://star-history.com/#alonzoleeeooo/awesome-image-inpainting-studies&alonzoleeeooo/awesome-video-generation&alonzoleeeooo/awesome-text-to-image-studies&Date" target="_blank">
+        <img width="450" src="https://api.star-history.com/svg?repos=alonzoleeeooo/awesome-image-inpainting-studies,alonzoleeeooo/awesome-video-generation,alonzoleeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
+    </a>
+<p>
 
 🤝 I am looking for long-term collaboration in ground-breaking projects in computer vision, please feel free to contact me if you are interested. 
 
