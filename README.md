@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://star-history.com/#alonzoleeeooo/awesome-image-inpainting-studies&alonzoleeeooo/awesome-video-generation&alonzoleeeooo/awesome-text-to-image-studies&Date" target="_blank">
-        <img width="450" src="https://api.star-history.com/svg?repos=alonzoleeeooo/awesome-image-inpainting-studies,alonzoleeeooo/awesome-video-generation,alonzoleeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
+        <img width="550" src="https://api.star-history.com/svg?repos=alonzoleeeooo/awesome-image-inpainting-studies,alonzoleeeooo/awesome-video-generation,alonzoleeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
     </a>
 <p>
 
