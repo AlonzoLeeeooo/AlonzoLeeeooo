@@ -19,6 +19,7 @@
 
 🧪 I have re-produced/re-implemented some works, which are open-sourced for potential usage by the community:
 - [<u>1. Shape-Guided ControlNet</u>](https://github.com/AlonzoLeeeooo/shape-guided-controlnet): A re-implementation of ControlNet trained with shape masks.
+- [<u>2. Shape-Guided ControlNeXt</u>](https://github.com/AlonzoLeeeooo/ControlNeXt-svd-shape): A re-implementation of ControlNeXt trained with shape masks.
 
 > [!NOTE]
 > These codebases are experimental and would not be guaranteed to be well-performing. If you have any questions about them, please feel free to <u>propose an issue or PR</u>.
@@ -30,6 +31,7 @@
 - Zhihu: https://www.zhihu.com/people/liu-chang-82-34-78 （@叫我Alonzo就好了）
 
 🔥 Recent News:
+- [Sep. 27th] I have open-sourced a re-implementation of ControlNeXt trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/ControlNeXt-svd-shape) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/ControlNeXt-svd-shape).
 - [Sep. 18th] I have open-sourced a re-implementation of ControlNet trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/shape-guided-controlnet) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/shape-guided-controlnet).
 - [Jun. 13th] [Code](https://github.com/AlonzoLeeeooo/LCDG) and pre-trained model weights ([Huggingface](https://huggingface.co/AlonzoLeeeooo/LaCon) and [ModelScope](https://modelscope.cn/models/AlonzoLeeeoooo/LaCon)) of our paper titled ["LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis"](https://arxiv.org/pdf/2305.11520) are updated!
 - [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
