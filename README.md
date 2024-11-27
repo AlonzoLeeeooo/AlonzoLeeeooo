@@ -29,6 +29,7 @@
 📜 You can find more information about me in the following websites.
 - Google Scholar: https://scholar.google.com/citations?user=Y3NKd1wAAAAJ&hl=zh-CN&authuser=2
 - Zhihu: https://www.zhihu.com/people/liu-chang-82-34-78 （@叫我Alonzo就好了）
+- 🍠（小红书）：https://www.xiaohongshu.com/user/profile/632dbaa10000000023026ad9?xsec_token=&xsec_source=pc_search（@叫我Alonzo就好了）
 
 🔥 Recent News:
 - [Nov. 19th] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
