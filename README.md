@@ -9,11 +9,10 @@
 - [<u>1. Text-to-Image Generation</u>](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies): A collection of resources for the Text-to-Image (T2I) Generation task.
 - [<u>2. Video Generation</u>](https://github.com/AlonzoLeeeooo/awesome-video-generation): A collection of resources for the Video Generation task.
 - [<u>3. Image Inpainting</u>](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies): A collection of resources for the Image Inpainting task.
-- [<u>4. Radiology Report Generation</u>](https://github.com/AlonzoLeeeooo/awesome-radiology-report-generation): A collection of resources for the Radiology Report Generation (RRG) task.
 
 <p align="center">
     <a href="https://star-history.com/#alonzoleeeooo/awesome-image-inpainting-studies&alonzoleeeooo/awesome-video-generation&alonzoleeeooo/awesome-text-to-image-studies&Date" target="_blank">
-        <img width="550" src="https://api.star-history.com/svg?repos=alonzoleeeooo/awesome-image-inpainting-studies,alonzoleeeooo/awesome-video-generation,alonzoleeeooo/awesome-text-to-image-studies,alonzoleeeooo/awesome-radiology-report-generation&type=Date" alt="Star History Chart">
+        <img width="550" src="https://api.star-history.com/svg?repos=alonzoleeeooo/awesome-image-inpainting-studies,alonzoleeeooo/awesome-video-generation,alonzoleeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
     </a>
 <p>
 
