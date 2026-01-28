@@ -31,13 +31,13 @@
 - 🍠（小红书）：https://www.xiaohongshu.com/user/profile/632dbaa10000000023026ad9?xsec_token=&xsec_source=pc_search（@叫我Alonzo就好了）
 
 🔥 Recent News:
-- [Jan. 28th, 2026] One paper is accepted at [TIP 2026](https://ieeexplore.ieee.org/document/11360571/)!
-- [Dec. 11th, 2025] One paper is accepted at [TCSVT 2025](https://ieeexplore.ieee.org/document/11272911/)!
-- [Nov. 19th] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
-- [Sep. 27th] I have open-sourced a re-implementation of ControlNeXt trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/ControlNeXt-svd-shape) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/ControlNeXt-svd-shape).
-- [Sep. 18th] I have open-sourced a re-implementation of ControlNet trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/shape-guided-controlnet) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/shape-guided-controlnet).
-- [Jun. 13th] [Code](https://github.com/AlonzoLeeeooo/LCDG) and pre-trained model weights ([Huggingface](https://huggingface.co/AlonzoLeeeooo/LaCon) and [ModelScope](https://modelscope.cn/models/AlonzoLeeeoooo/LaCon)) of our paper titled ["LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis"](https://arxiv.org/pdf/2305.11520) are updated!
-- [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
+- [Jan. 28th, 2026] Our paper titled ["LaCon: Late-Constraint Controllable Visual Generation"]([https://ieeexplore.ieee.org/document/11272911/](https://ieeexplore.ieee.org/document/11360571/)) is accepted by TIP 2026!
+- [Dec. 11th, 2025] Our paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://ieeexplore.ieee.org/document/11272911/) is accepted by TCSVT 2025!
+- [Nov. 19th, 2024] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
+- [Sep. 27th, 2024] I have open-sourced a re-implementation of ControlNeXt trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/ControlNeXt-svd-shape) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/ControlNeXt-svd-shape).
+- [Sep. 18th, 2024] I have open-sourced a re-implementation of ControlNet trained with shape masks, where you can find more details in the [GitHub](https://github.com/AlonzoLeeeooo/shape-guided-controlnet) and [Hugging Face repo](https://huggingface.co/AlonzoLeeeooo/shape-guided-controlnet).
+- [Jun. 13th, 2024] [Code](https://github.com/AlonzoLeeeooo/LCDG) and pre-trained model weights ([Huggingface](https://huggingface.co/AlonzoLeeeooo/LaCon) and [ModelScope](https://modelscope.cn/models/AlonzoLeeeoooo/LaCon)) of our paper titled ["LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis"](https://arxiv.org/pdf/2305.11520) are updated!
+- [May 17th, 2024] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/alonzoleeeooo/count.svg)
