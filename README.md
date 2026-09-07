@@ -1,7 +1,7 @@
 ### Hi there 👋
-![github stats](https://github-readme-stats.vercel.app/api?username=AlonzoLeeeooo&show_icons=true)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlonzoLeeeooo&theme=default)
 
-🧑🏻‍🎓 I am currently a PhD student at the University of Science and Technology of China (USTC). 
+🧑🏻‍🎓 I currently hold a PhD degree from the University of Science and Technology of China (USTC). 
 
 🔍 My research direction involves a wide series of applications based on generative models such as GANs, Transformers, and diffusion models. For now, I am mainly interested in these tasks: *image inpainting*, *text-to-image generation*, and *video generation*.
 
@@ -40,4 +40,4 @@
 - [May 17th, 2024] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
 
 
-![Visitor Count](https://profile-counter.glitch.me/alonzoleeeooo/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=AlonzoLeeeooo&label=Profile%20views&color=0e75b6&style=flat)
